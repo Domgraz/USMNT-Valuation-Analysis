@@ -1,0 +1,60 @@
+league,country_play_in,team,player_age,player_market_val,player_name,player_position,profile_link
+EPL,UK,Arsenal,28,5500000,Matt Turner,Goalkeeper,https://www.transfermarkt.com/matt-turner/profil/spieler/425306
+MLS,US,NYFC,33,1650000,Sean Johnson,Goalkeeper,https://www.transfermarkt.com/sean-johnson/profil/spieler/126630
+Championship,UK,Luton Town,27,880000,Ethan Horvath,Goalkeeper,https://www.transfermarkt.com/ethan-horvath/profil/spieler/242284
+Scottish Premiership,Scotland,Celtic,24,7700000,Cameron Carter-Vickers,Centre-Back,https://www.transfermarkt.com/cameron-carter-vickers/profil/spieler/341049
+MLS,US,Nashville FC,29,3850000,Walker Zimmerman,Centre-Back,https://www.transfermarkt.com/walker-zimmerman/profil/spieler/245337
+Ligue 1,France,Troyes,25,3300000,Erik Palmer-Brown,Centre-Back,https://www.transfermarkt.com/erik-palmer-brown/profil/spieler/282199
+MLS,US,NY Red Bulls,29,3300000,Aaron Long,Centre-Back,https://www.transfermarkt.com/aaron-long/profil/spieler/271072
+EPL,UK,Fullham,25,8800000,Antonee Robinson,Left-Back,https://www.transfermarkt.com/antonee-robinson/profil/spieler/349701
+2 Bundesliga,Germany,Arminia Bielefield,20,3300000,George Bello,Left-Back,https://www.transfermarkt.com/george-bello/profil/spieler/504147
+Bundesliga,Germany,Borussia Monchengladbach,19,8800000,Joe Scally,Right-Back,https://www.transfermarkt.com/joe-scally/profil/spieler/504153
+Portugese Primera,Portugal,Boavista,24,4400000,Reggie Cannon,Right-Back,https://www.transfermarkt.com/reggie-cannon/profil/spieler/478940
+MLS,US,Inter Miami CF,29,2200000,DeAndre Yedlin,Right-Back,https://www.transfermarkt.com/deandre-yedlin/profil/spieler/255916
+EPL,UK,Leeds United,23,18700000,Tyler Adams,Defensive Midfield,https://www.transfermarkt.com/tyler-adams/profil/spieler/332705
+MLS,US,LAFC,27,3300000,Kellyn Acosta,Defensive Midfield,https://www.transfermarkt.com/kellyn-acosta/profil/spieler/189895
+Serie A,Italy,Juventus,23,27500000,Weston McKennie,Central Midfield,https://www.transfermarkt.com/weston-mckennie/profil/spieler/332697
+La Liga,Spain,Valencia,19,16500000,Yunus Musah,Central Midfield,https://www.transfermarkt.com/yunus-musah/profil/spieler/503991
+MLS,US,Seattle Sounders,27,6600000,Cristian Roldán,Central Midfield,https://www.transfermarkt.com/cristian-roldan/profil/spieler/354792
+La Liga,Spain,Celta Vigo,24,935000,Luca de la Torre,Central Midfield,https://www.transfermarkt.com/luca-de-la-torre/profil/spieler/315762
+EPL,UK,Leeds United,21,27500000,Brenden Aaronson,Attacking Midfield,https://www.transfermarkt.com/brenden-aaronson/profil/spieler/393323
+Scottish Premiership,Scotland,Rangers,20,1650000,Malik Tillman,Attacking Midfield,https://www.transfermarkt.com/malik-tillman/profil/spieler/467437
+MLS,US,Seattle Sounders,27,5500000,Jordan Morris,Left Winger,https://www.transfermarkt.com/jordan-morris/profil/spieler/337807
+EPL,UK,Chelsea,23,46200000,Christian Pulisic,Right Winger,https://www.transfermarkt.com/christian-pulisic/profil/spieler/315779
+MLS,US,FC Dallas,27,4400000,Paul Arriola,Right Winger,https://www.transfermarkt.com/paul-arriola/profil/spieler/189876
+Ligue 1,France,Lille,22,13200000,Timothy Weah,Centre-Forward,https://www.transfermarkt.com/timothy-weah/profil/spieler/370846
+MLS,US,FC Dallas,21,8800000,Jesús Ferreira,Centre-Forward,https://www.transfermarkt.com/jesus-ferreira/profil/spieler/474249
+Super Lig,Turkey,Antalyaspor,24,2750000,Haji Wright,Centre-Forward,https://www.transfermarkt.com/haji-wright/profil/spieler/315291
+Bundesliga,Germany,Borussia Dortmund,19,38500000,Giovanni Reyna,Right Winger,https://www.transfermarkt.us/giovanni-reyna/profil/spieler/504215
+La Liga,Spain,Barcelona,21,19800000,Sergino Dest,Right-Back,https://www.transfermarkt.us/sergino-dest/profil/spieler/361104
+Bundesliga,Germany,FC Augsburg,19,9900000,Ricardo Pepi,Centre-Forward,https://www.transfermarkt.us/ricardo-pepi/profil/spieler/627207
+Serie B,Italy,Venezia,20,9350000,Gianluca Busio,Central Midfield,https://www.transfermarkt.us/gianluca-busio/profil/spieler/504209
+MLS,US,Chicago Fire,18,8250000,Gabriel Slonnia,Goalkeeper,https://www.transfermarkt.us/gabriel-slonina/profil/spieler/656316
+EPL,UK,Crystal Palace,22,8250000,Chris Richards,Centre-Back,https://www.transfermarkt.us/chris-richards/profil/spieler/578539
+Bundesliga,Germany,Wolfsburg,29,7700000,John Anthony Brooks,Centre-Back,https://www.transfermarkt.us/john-anthony-brooks/profil/spieler/124732
+Bundesliga,Germany,Union Berlin,26,7700000,Jordan Pefok,Centre-Forward,https://www.transfermarkt.us/jordan-siebatcheu/profil/spieler/355369
+Championship,UK,Norwich City,22,7700000,Josh Sargent,Centre-Forward,https://www.transfermarkt.us/josh-sargent/profil/spieler/393325
+Championship,UK,Middlesbrough,27,6600000,Zach Steffen,Goalkeeper,https://www.transfermarkt.us/zack-steffen/profil/spieler/221624
+Super League Greece,Greece,Olympiacos,21,6600000,Konrad de la Fuente,Left Winger,https://www.transfermarkt.us/konrad-de-la-fuente/profil/spieler/466809
+MLS,US,Atlanta United,25,5500000,Miles Robinson,Centre-Back,https://www.transfermarkt.us/miles-robinson/profil/spieler/468022
+Belgian Pro League,Belgium,Genk,23,3850000,Mark McKenzie,Centre-Back,https://www.transfermarkt.us/mark-mckenzie/profil/spieler/429259
+Bundesliga,Germany,1899 Hoffenheim,18,3300000,Justin Che,Centre-Back,https://www.transfermarkt.us/justin-che/profil/spieler/796429
+MLS,US,New UK Revolution,24,2750000,Henry Kessler,Centre-Back,https://www.transfermarkt.us/henry-kessler/profil/spieler/638732
+Championship,UK,Birmingham City,24,1980000,Auston Trusty,Centre-Back,https://www.transfermarkt.us/auston-trusty/profil/spieler/389253
+EPL,UK,Fullham,34,550000,Tim Ream,Centre-Back,https://www.transfermarkt.us/tim-ream/profil/spieler/145466
+Championnat National 2,France,Reims B,18,220000,Kobi Henry,Centre-Back,https://www.transfermarkt.us/kobi-henry/profil/spieler/746830
+Belgian Pro League,Belgium,Antwerp,23,1980000,Sam Vines,Left-Back,https://www.transfermarkt.us/sam-vines/profil/spieler/535282
+Segunda Division,Spain,Real Sociedad B,18,550000,Jonathan Gomez,Left-Back,https://www.transfermarkt.us/jonathan-gomez/profil/spieler/674501
+Belgian Pro League,Belgium,Westerlo,21,3850000,Bryan Reynolds,Right-Back,https://www.transfermarkt.us/bryan-reynolds/profil/spieler/475208
+MLS,US,Nashville FC,25,1100000,Shaq Moore,Right-Back,https://www.transfermarkt.us/shaq-moore/profil/spieler/336168
+MLS,US,Atlanta United,24,1100000,Brooks Lennon,Right-Back,https://www.transfermarkt.us/brooks-lennon/profil/spieler/345627
+Scottish Premiership,Scotland,Rangers,22,3300000,James Sands,Defensive Midfield,https://www.transfermarkt.us/james-sands/profil/spieler/393321
+Eredivise,Netherlands,Utrecht,21,1100000,Taylor Booth,Defensive Midfield,https://www.transfermarkt.us/taylor-booth/profil/spieler/513963
+MLS,US,San Jose Earthquakes,25,3300000,Jackson Yueill,Central Midfield,https://www.transfermarkt.us/jackson-yueill/profil/spieler/349707
+MLS,US,FC Dallas,29,2200000,Sebastian Lleget,Central Midfield,https://www.transfermarkt.us/sebastian-lletget/profil/spieler/175996
+Brasileiro Serie A,Brazil,Internacional,20,1980000,Johnny Cardoso,Central Midfield,https://www.transfermarkt.us/johnny/profil/spieler/689505
+Eredivise,Netherlands,Fortuna Sittard,21,4400000,Cole Bassett,Attacking Midfield,https://www.transfermarkt.us/cole-bassett/profil/spieler/605144
+MLS,US,NY Red Bulls,19,3300000,Caden Clark,Attacking Midfield,https://www.transfermarkt.us/caden-clark/profil/spieler/742297
+MLS,US,San Jose Earthquakes,18,5500000,Cade Cowell,Centre-Forward,https://www.transfermarkt.us/cade-cowell/profil/spieler/647235
+MLS,US,Colorado Rapids,30,2750000,Gyasi Zardes,Centre-Forward,https://www.transfermarkt.us/gyasi-zardes/profil/spieler/254230
+Championship,UK,Middlesbrough,21,1100000,Matthew Hoppe,Centre-Forward,https://www.transfermarkt.us/matthew-hoppe/profil/spieler/678194
